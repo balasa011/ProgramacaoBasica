@@ -1,0 +1,8 @@
+feat = Acrescentar uma nova funcionalidade 
+fix = Concertar algum erro
+style = Mudar algo na parte de estetica
+refactor = otimizacao/ mudanca de codigo
+test = testar fora do codigo principal
+docs = documentao escrita
+chore = tarefa
+comecar com uma tag, max= 70 character
