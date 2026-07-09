@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="feaa4991-80e3-4041-b918-313fadccc1b2" name="Changes" comment="chore= solucao para MaquinaDeCafe.java">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AndandoNoTempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AndandoNoTempoSugerido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CachorroQuente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DivisaoDeCombustivel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Helloworld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Loteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LoteriaSugerido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MaquinaCafeSugerido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MaquinaDeCafe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Medalhas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NotasDaProva.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Tomadas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ZerinhoOuUm.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;balasa011&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/balasa011/ProgramacaoBasica.git&quot;,
+    &quot;accountId&quot;: &quot;3b0bc8fd-2f38-41c3-9275-2b96d86d7ce9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GBZWkxRiIMnnLwg1vqFGpE3uuA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AndandoNoTempo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivisaoDeCombustivel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Helloworld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loteria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaquinaDeCafe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotasDaProva.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tomadas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZerinhoOuUm.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Balasa/Documents/GitHub/ProgramacaoBasica/solucoes&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Balasa/Documents/GitHub/ProgramacaoBasica/untitled/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.DivisaoDeCombustivel">
+    <configuration name="DivisaoDeCombustivel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.DivisaoDeCombustivel" />
+      <module name="solucoes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Helloworld" />
+      <module name="solucoes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaquinaDeCafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MaquinaDeCafe" />
+      <module name="solucoes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotasDaProva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.NotasDaProva" />
+      <module name="solucoes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomadas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Tomadas" />
+      <module name="solucoes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaquinaDeCafe" />
+        <item itemvalue="Application.Tomadas" />
+        <item itemvalue="Application.NotasDaProva" />
+        <item itemvalue="Application.Helloworld" />
+        <item itemvalue="Application.DivisaoDeCombustivel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feaa4991-80e3-4041-b918-313fadccc1b2" name="Changes" comment="" />
+      <created>1783446959516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783446959516</updated>
+    </task>
+    <task id="LOCAL-00001" summary="chore= solucao andando no tempo">
+      <option name="closed" value="true" />
+      <created>1783455036265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1783455036265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore= solucao do problema CachorroQuente.java">
+      <option name="closed" value="true" />
+      <created>1783457834077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1783457834077</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore= solucao do problema DivisaoDeCombustivel.java">
+      <option name="closed" value="true" />
+      <created>1783459526871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1783459526871</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chore= solucao do problema Helloworld.java">
+      <option name="closed" value="true" />
+      <created>1783459692719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1783459692719</updated>
+    </task>
+    <task id="LOCAL-00005" summary="chore= solucao do problema Loteria.java">
+      <option name="closed" value="true" />
+      <created>1783472743691</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1783472743691</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chore= solucao do problema MaquinaDeCafe.java">
+      <option name="closed" value="true" />
+      <created>1783523898437</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1783523898437</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix= erro encontrado no codigo">
+      <option name="closed" value="true" />
+      <created>1783531056349</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1783531056349</updated>
+    </task>
+    <task id="LOCAL-00008" summary="chore= solucao do problema Medalhas.java">
+      <option name="closed" value="true" />
+      <created>1783531129095</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1783531129095</updated>
+    </task>
+    <task id="LOCAL-00009" summary="chore= solucao do problema NotasDaProva.java">
+      <option name="closed" value="true" />
+      <created>1783531914249</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1783531914249</updated>
+    </task>
+    <task id="LOCAL-00010" summary="chore= solucao do problema Tomadas.java">
+      <option name="closed" value="true" />
+      <created>1783532995406</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1783532995406</updated>
+    </task>
+    <task id="LOCAL-00011" summary="chore= solucao do problema ZerinhoOuUm.java">
+      <option name="closed" value="true" />
+      <created>1783533613560</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1783533613560</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix= procurando solucao para MaquinaDeCafe.java">
+      <option name="closed" value="true" />
+      <created>1783536302582</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1783536302582</updated>
+    </task>
+    <task id="LOCAL-00013" summary="chore= solucao para MaquinaDeCafe.java">
+      <option name="closed" value="true" />
+      <created>1783557661795</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1783557661795</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore= solucao andando no tempo" />
+    <MESSAGE value="chore= solucao do problema CachorroQuente.java" />
+    <MESSAGE value="chore= solucao do problema DivisaoDeCombustivel.java" />
+    <MESSAGE value="chore= solucao do problema Helloworld.java" />
+    <MESSAGE value="chore= solucao do problema Loteria.java" />
+    <MESSAGE value="chore= solucao do problema MaquinaDeCafe.java" />
+    <MESSAGE value="fix= erro encontrado no codigo" />
+    <MESSAGE value="chore= solucao do problema Medalhas.java" />
+    <MESSAGE value="chore= solucao do problema NotasDaProva.java" />
+    <MESSAGE value="chore= solucao do problema Tomadas.java" />
+    <MESSAGE value="chore= solucao do problema ZerinhoOuUm.java" />
+    <MESSAGE value="fix= procurando solucao para MaquinaDeCafe.java" />
+    <MESSAGE value="chore= solucao para MaquinaDeCafe.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore= solucao para MaquinaDeCafe.java" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/solucoes$MaquinaDeCafe.ic" NAME="MaquinaDeCafe Coverage Results" MODIFIED="1783557014204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>
